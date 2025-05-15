@@ -1,0 +1,18 @@
+# PYTHON CACHE DIRECTORIES
+__pycache__/
+*.py[cod]
+
+# JUPYTER NOTEBOOK CHECKPOINT FILES
+.ipynb_checkpoints/
+
+# VIRTUAL ENVIRONMENT DIRECTORIES
+venv/
+env/
+.env/
+
+# VISUAL STUDIO CODE SETTINGS
+.vscode/
+
+# OPERATING SYSTEM GENERATED FILES
+.DS_Store
+Thumbs.db
