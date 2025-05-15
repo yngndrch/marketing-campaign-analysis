@@ -8,17 +8,6 @@
 
 - **Tools**: Python · NumPy · Pandas · Matplotlib · Seaborn · Jupyter Notebook
 
-## 📂 FILE STRUCTURE
-
-/MARKETING CAMPAIGN ANALYSIS
-├─ notebook/
-│ ├ marketing_campaign_analysis.ipynb
-│ ├ marketing_campaign_analysis.html
-│ └ marketing_campaign_dataset.csv
-├─ requirements.txt
-├─ .gitignore
-└─ README.md
-
 ## ⚙️ INSTALLATION & USAGE
 
 1. **Clone the repository**  
